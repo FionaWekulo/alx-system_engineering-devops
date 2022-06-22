@@ -1,1 +1,1 @@
-Script to get absolute path name of current working directory
+Scripts to shell basics
