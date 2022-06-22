@@ -1,1 +1,0 @@
-Scripts to shell basics
