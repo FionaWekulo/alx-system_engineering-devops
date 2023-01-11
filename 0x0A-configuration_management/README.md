@@ -136,5 +136,3 @@ root@d391259bf577:/#
 ```
 ---
 
-## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
