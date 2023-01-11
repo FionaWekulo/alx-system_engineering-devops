@@ -563,6 +563,3 @@ Requirements:
 * Your answer file should be a Puppet manifest containing commands to automatically configure an Ubuntu machine to respect above requirements
 
 ---
-
-## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)

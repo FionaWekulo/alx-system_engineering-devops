@@ -196,6 +196,3 @@ vagrant@ubuntu-xenial:~$
 ```
 
 ---
-
-## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
