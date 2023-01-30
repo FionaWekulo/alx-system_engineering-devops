@@ -157,7 +157,3 @@ Accept-Ranges: bytes
 
 sylvain@ubuntu$
 ```
----
-
-## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)

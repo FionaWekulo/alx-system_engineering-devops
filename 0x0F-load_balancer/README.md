@@ -30,9 +30,9 @@ Read or watch:
 ---
 | Name |	Username |	IP |	State |        |          |         |
 |------|-----------------|---------|----------|--------|----------|---------|
-| 1574-web-01 |	ubuntu |  35.227.35.75 |	running |	Soft reboot |	Hard reboot |	Ask a new server |
-| 1574-web-02 |	ubuntu |	100.24.37.33 | running |	Soft reboot |	Hard reboot |	Ask a new server |
-| 1574-lb-01 |	ubuntu |	3.91.150.218 |	running |	Soft reboot |	Hard reboot |	Ask a new server |
+| 91500-web-01 |	ubuntu |  100.25.140.141 |	running |	Soft reboot |	Hard reboot |	Ask a new server |
+| 91500-web-02 |	ubuntu | 52.23.213.225 | running |	Soft reboot |	Hard reboot |	Ask a new server |
+| 91500-lb-01 |	ubuntu |	54.160.115.147 |	running |	Soft reboot |	Hard reboot |	Ask a new server |
 ---
 
 ### [0. Double the number of webservers](./0-custom_http_response-header)
@@ -113,5 +113,3 @@ sylvain@ubuntu$
 
 ---
 
-## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)

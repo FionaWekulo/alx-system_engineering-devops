@@ -33,8 +33,16 @@ frontend www-https
 backend www-backend
     balance  roundrobin
     redirect scheme https if !{ ssl_fc }
+<<<<<<< HEAD
     server 375-web-01 104.196.168.90:80 check
     server 375-web-02 35.196.46.172:80 check
 
 backend letsencrypt-backend
     server letsencrypt 127.0.0.1:54321
+=======
+    server 91500-web-01 100.25.140.141:80 check
+    server 9100-web-02 53.23.213.225:80 check
+
+backend letsencrypt-backend
+    server letsencrypt 127.0.0.1:54321
+>>>>>>> 3e2538d6821db31e0a506be284d9b3ec6c8ddbb7
