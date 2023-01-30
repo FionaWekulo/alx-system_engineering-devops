@@ -16,8 +16,4 @@ then
 elif [ "$#" == 2 ]
 then
   domain_information "$1" "$2"
-<<<<<<< HEAD
-fi
-=======
-fi
->>>>>>> 3e2538d6821db31e0a506be284d9b3ec6c8ddbb7
+
